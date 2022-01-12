@@ -1,2 +1,2 @@
 # Data-analysis-Pandas----Plotly
-A continuacion a manera de ejemplo leeremos los datos de un pdf que contiene la informacion de las becas de maestria y especializacion ofrecidas por el MInTic Colombia. Luego realizaremos la limpieza y tratamiento con Pandas. Por ultimo se graficaran las conclusiones usando Plotly, 
+A continuación a manera de ejemplo leeremos los datos de un pdf que contiene la información de las becas de maestría y especialización ofrecidas por el MInTic Colombia. Luego realizaremos la limpieza y tratamiento con Pandas. Por último se graficarán las conclusiones usando Plotly, mención especial al modulo *from ipywidgets import widgets* que permite agregar elementos como textbox, radio buttons, labels al gráfico dinámico.
